@@ -23,7 +23,7 @@ The project focuses on **engineering a robust architecture** using Batch Normali
 ## Technical Implementation
 
 ### 1. Data Pipeline
-* **Ingestion:** Robust manual fetching via Pandas (bypassing `sklearn` 403 errors).
+* **Ingestion:** Robust manual fetching via Pandas (bypassing `sklearn` 403 errors)
 * **Preprocessing:** Stratified Train/Test split (80/20) and `StandardScaler` for feature normalization.
 
 ### 2. Deep Learning Architecture
