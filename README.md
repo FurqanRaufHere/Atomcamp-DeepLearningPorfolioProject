@@ -1,6 +1,6 @@
 # Optimizing Neural Networks for Structured Data: A Case Study
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Sklearn-1.0-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
